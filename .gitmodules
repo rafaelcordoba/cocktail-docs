@@ -1,0 +1,6 @@
+[submodule "cocktail"]
+	path = cocktail
+	url = git://github.com/nybras/cocktail
+[submodule "gen/cocktail"]
+	path = gen/cocktail
+	url = git://github.com/nybras/cocktail.git
