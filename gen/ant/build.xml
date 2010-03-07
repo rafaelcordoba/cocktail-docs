@@ -3,7 +3,7 @@
 	<property name="flexsdk" location="/Applications/Eclipse/plugins/com.powerflasher.fdt.shippedflex_3.3.0.4852_1001/flex" />
 	<property name="asdoc" location="${flexsdk}/bin/asdoc" />
 	<property name="src" location="${basedir}/gen/cocktail/src" />
-	<property name="vendors" location="${basedir}/gen/cocktail/src/cocktail/vendors/swc" />
+	<property name="vendors" location="${basedir}/gen/cocktail/src/cocktail/vendors" />
 	<property name="corelib" location="${flexsdk}/frameworks/libs/player/10" />
 	<property name="output" location="${basedir}/output" />
 	<property name="examples" location="${basedir}/gen/examples/src" />
